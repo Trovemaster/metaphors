@@ -1,0 +1,15 @@
+seal
+arrive
+land
+seize
+belong
+purchase
+admit
+build
+open
+employ
+enter
+produce
+authorize
+come
+require

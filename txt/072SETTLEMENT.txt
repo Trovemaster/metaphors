@@ -1,0 +1,6 @@
+purchase
+open
+look
+promote
+authorize
+provide

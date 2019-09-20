@@ -1,0 +1,16 @@
+confine
+advise
+recommend
+contain
+enable
+ask
+supply
+estimate
+authorize
+require
+include
+reduce
+pass
+carry
+increase
+continue

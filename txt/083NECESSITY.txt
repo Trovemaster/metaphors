@@ -1,0 +1,10 @@
+supersede
+invite
+call
+create
+meet
+provide
+exist
+secure
+take
+give

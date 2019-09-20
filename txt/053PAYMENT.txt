@@ -1,0 +1,11 @@
+stipulate
+resume
+suspend
+apply
+press
+accord
+involve
+receive
+provide
+require
+continue
